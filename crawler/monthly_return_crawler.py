@@ -18,7 +18,7 @@ def crawl_monthly_return(url,code):
     """ JSON Example: 
         {
             "stock_code": "01477",
-            "total_shares": 690903850
+            "total_issued_shares": 690903850
         }
     """
 
@@ -93,7 +93,7 @@ def crawl_monthly_return(url,code):
             sharesAmount += int(Filtered[x+1].replace(",", ""))
 
     # store data 
-    data["total_shares"] = sharesAmount
+    data["total_issued_shares"] = sharesAmount
     # return function    
     return data
   
