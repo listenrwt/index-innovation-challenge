@@ -4,15 +4,11 @@ from bs4 import BeautifulSoup
 import json
 
 # Load the CSV file
-data = pd.read_csv('index-innovation-challenge-student-s-1/faf_documents.csv')
+data = pd.read_csv('provided_data/faf_documents.csv')
 
 # Base URL for the extracted links
 base_url = 'https://di.hkex.com.hk/di/'
 
-# Prepare lists for extracted information
-stock_codes, corporation_names = [], []
-substantial_shareholders_urls, notices_urls = [], []
-substantial_shareholders_data, notices_data = [], []
 
 def fetch_form(urls, name_field):
     data_list = []
@@ -33,6 +29,7 @@ def fetch_form(urls, name_field):
                         
                         shares = None
                         sum_of_derivatives = 0
+                        event_date = None
                         
                         if url:
                             url_response = requests.get(url)
@@ -58,7 +55,7 @@ def fetch_form(urls, name_field):
                                     derivative_str = cols[len(cols) - 1].get_text(strip=True).replace(',', '')
                                     if derivative_str.lstrip('-').isdigit():
                                         sum_of_derivatives += int(derivative_str)
-                            
+                                        
                         data_list.append({
                             name_field: name,
                             "date_of_relevant_event": event_date,
@@ -71,6 +68,10 @@ def fetch_form(urls, name_field):
 with open('hkex_data.json', 'w') as json_file:
     # Fetch and extract data from the URLs in the SDI column
     for sdi in data['SDI'].to_numpy():
+        # Prepare lists for extracted information
+        stock_codes, corporation_names = [], []
+        substantial_shareholders_urls, notices_urls = [], []
+        substantial_shareholders_data, notices_data = [], []
         try:
             response = requests.get(sdi)
             response.raise_for_status()
