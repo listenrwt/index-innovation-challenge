@@ -37,6 +37,7 @@ def crawl_sdi(url):
                             
                             shares = None
                             sum_of_derivatives = 0
+                            event_date = None
                             
                             if url:
                                 url_response = requests.get(url)
