@@ -1,0 +1,491 @@
+[
+    {
+        "code": "1477.HK",
+        "data": [
+            {
+                "name": "Mr. Ye LIU",
+                "shares": 76112990,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Dr. Zhaopeng HU",
+                "shares": 4226506,
+                "date": "30/06/2023"
+            }
+        ]
+    },
+    {
+        "code": "0011.HK",
+        "data": [
+            {
+                "name": "Alibaba Group Holding Limited",
+                "shares": 1,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Great Eagle Holdings Limited",
+                "shares": 1,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Hang Seng Bank Limited",
+                "shares": 2,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Hysan Development Company Limited",
+                "shares": 1,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Dickson Concepts (International) Limited",
+                "shares": 1,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Singapore Exchange Limited",
+                "shares": 1,
+                "date": "30/06/2023"
+            }
+        ]
+    },
+    {
+        "code": "0151.HK",
+        "data": [
+            {
+                "name": "Tsai Eng-Meng",
+                "shares": 177000000,
+                "date": ""
+            },
+            {
+                "name": "Tsai Shao-Chung",
+                "shares": 102594000,
+                "date": ""
+            },
+            {
+                "name": "Tsai Wang-Chia",
+                "shares": 42000,
+                "date": ""
+            },
+            {
+                "name": "Huang Yung-Sung",
+                "shares": 22100,
+                "date": ""
+            },
+            {
+                "name": "Chu Chi-Wen",
+                "shares": 197200,
+                "date": ""
+            },
+            {
+                "name": "Maki Haruo",
+                "shares": 1100000,
+                "date": ""
+            },
+            {
+                "name": "Cheng Wen-Hsien",
+                "shares": 76600,
+                "date": ""
+            },
+            {
+                "name": "Tsai Ming-Hui",
+                "shares": 57200,
+                "date": ""
+            },
+            {
+                "name": "Lai Hong Yee",
+                "shares": 8000,
+                "date": ""
+            },
+            {
+                "name": "Want Power",
+                "shares": 3332022000,
+                "date": ""
+            },
+            {
+                "name": "Top Quality",
+                "shares": 2811820700,
+                "date": ""
+            },
+            {
+                "name": "Iwatsuka Confectionery Co., Ltd.",
+                "shares": 608434480,
+                "date": ""
+            }
+        ]
+    },
+    {
+        "code": "0806.HK",
+        "data": [
+            {
+                "name": "Ms. WONG Wai Man June",
+                "shares": 6658000,
+                "date": ""
+            },
+            {
+                "name": "Dr. CHEN Shih-Ta Michael",
+                "shares": 175000,
+                "date": ""
+            },
+            {
+                "name": "Mr. Nobuo OYAMA",
+                "shares": 175000,
+                "date": ""
+            },
+            {
+                "name": "Mr. WONG Poh Weng",
+                "shares": 175000,
+                "date": ""
+            }
+        ]
+    },
+    {
+        "code": "0909.HK",
+        "data": [
+            {
+                "name": "Mr. Gao Yu",
+                "shares": 397923600,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. Chen Xiaohui",
+                "shares": 301644800,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. Jiang Haiyang",
+                "shares": 186826600,
+                "date": "30/06/2023"
+            }
+        ]
+    },
+    {
+        "code": "0975.HK",
+        "data": [
+            {
+                "name": "Mr. Odjargal Jambaljamts",
+                "shares": 46614754,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. Od Jambaljamts",
+                "shares": 26576226,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. Myagmarjav Ganbyamba",
+                "shares": 12000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. Chan Tze Ching, Ignatius",
+                "shares": 249000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "MCS Mining Group LLC",
+                "shares": 323492188,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. Odjargal Jambaljamts",
+                "shares": 46100000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Dr. Battsengel Gotov",
+                "shares": 10000000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Employees of the Group other than Directors",
+                "shares": 23250000,
+                "date": "30/06/2023"
+            }
+        ]
+    },
+    {
+        "code": "1398.HK",
+        "data": [
+            {
+                "name": "Zheng Yongyong (Non-Publicly-Traded Equity Investment Exposure(1))",
+                "shares": 193890000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "State-owned Assets Supervision and Administration Commission of the State Council (SOASAC)",
+                "shares": 356406257089,
+                "date": "30/06/2023"
+            }
+        ]
+    },
+    {
+        "code": "1658.HK",
+        "data": [
+            {
+                "name": "China Post Group Corporation Limited",
+                "shares": 5405405405,
+                "date": "28/03/2028"
+            },
+            {
+                "name": "China Mobile Communications Group Co., Ltd.",
+                "shares": 67771084333,
+                "date": "28/03/2028"
+            }
+        ]
+    },
+    {
+        "code": "1787.HK",
+        "data": [
+            {
+                "name": "SDG Group Co.",
+                "shares": 1694069251,
+                "date": ""
+            },
+            {
+                "name": "Interest held by controlled corporation(1)",
+                "shares": 345073733,
+                "date": ""
+            },
+            {
+                "name": "Shandong Gold Resources Development Co., Ltd. (\u201cSDG Resources Development\u201d)",
+                "shares": 194872049,
+                "date": ""
+            },
+            {
+                "name": "Gold Virtue Limited",
+                "shares": 94189655,
+                "date": ""
+            },
+            {
+                "name": "Schroders PLC",
+                "shares": 85890350,
+                "date": ""
+            },
+            {
+                "name": "China Structural Reform Fund Corporation Limited ",
+                "shares": 76639270,
+                "date": ""
+            },
+            {
+                "name": "CEB-GFAM-China Structural Reform Fund Asset Management Account No. 1 (\u5ee3\u767c\u8cc7\u7ba1\uff0d\u570b\u8abf\u57fa\u91d11\u865f\u5b9a\u5411\u8cc7\u7522\u7ba1\u7406\u8a08\u5283)",
+                "shares": 76639270,
+                "date": ""
+            },
+            {
+                "name": "BlackRock, Inc.",
+                "shares": 45082060,
+                "date": ""
+            }
+        ]
+    },
+    {
+        "code": "3759.HK",
+        "data": [
+            {
+                "name": "Dr. LOU Boliang",
+                "shares": 1044400,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. LOU Xiaoqiang",
+                "shares": 2000000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Ms. ZHENG Bei",
+                "shares": 1600000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Pharmaron Beijing Co., Ltd.",
+                "shares": 13450000000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Employee Share Trust",
+                "shares": 34470000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Trident Merger, LLC",
+                "shares": 417400,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Investment Management, LLC",
+                "shares": 417400,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Holdco 2, Inc.",
+                "shares": 15251801,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Financial Management, Inc.",
+                "shares": 13546051,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Financial Management, Inc.",
+                "shares": 1705750,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Holdco 4, LLC",
+                "shares": 7975000,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Holdco 6, LLC",
+                "shares": 7975000,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Delaware Holdings Inc.",
+                "shares": 7975000,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Institutional Trust Company",
+                "shares": 4137400,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Fund Advisors",
+                "shares": 3837600,
+                "date": ""
+            },
+            {
+                "name": "BlackRock Capital Holdings, Inc.",
+                "shares": 175500,
+                "date": ""
+            }
+        ]
+    },
+    {
+        "code": "3969.HK",
+        "data": [
+            {
+                "name": "China Railway Signal & Communication Corporation Limited",
+                "shares": 6604426424,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "HKSCC NOMINEES LIMITED",
+                "shares": 1967743950,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "HONG KONG SECURITIES CLEARING COMPANY LIMITED",
+                "shares": 246434243,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "China Merchants Bank Co., Ltd - ChinaAMC SSE STAR 50 Exchange Traded Fund",
+                "shares": 175560815,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "China National Machinery Industry Corporation",
+                "shares": 63507192,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Industrial and Commercial Bank of China Limited-E Fund SSE STAR 50 Exchange Traded Fund",
+                "shares": 58626679,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "China Railway Investment Group Co., Ltd.",
+                "shares": 34188000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "CETC Fund Management Co., Ltd.- Zhongdian Electronic Information Industry Investment Fund (Tianjin) Partnership (Limited Partnership)",
+                "shares": 23677500,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Hunan Rail Transit Holding Group Co., Ltd.",
+                "shares": 23677500,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Agricultural Bank of China Limited \u2013 ICBC Credit Suisse SSE STAR 50 Exchange Traded Fund",
+                "shares": 16008406,
+                "date": "30/06/2023"
+            }
+        ]
+    },
+    {
+        "code": "0002.HK",
+        "data": [
+            {
+                "name": "CLP Securities Employee Share Option Plan",
+                "shares": 117990000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "CLP Power (China) Company Limited",
+                "shares": 10000000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Employee Share Trust",
+                "shares": 34470000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "6 Dimensions Capital",
+                "shares": 119890000,
+                "date": "30/06/2023"
+            }
+        ]
+    },
+    {
+        "code": "0038.HK",
+        "data": [
+            {
+                "name": "YTO Group Corporation",
+                "shares": 137795275,
+                "date": "19/02/2024"
+            },
+            {
+                "name": "SINOMACH",
+                "shares": 548485853,
+                "date": "19/02/2024"
+            }
+        ]
+    },
+    {
+        "code": "0069.HK",
+        "data": []
+    },
+    {
+        "code": "0136.HK",
+        "data": [
+            {
+                "name": "Mr. Ke Liming",
+                "shares": 3727381250,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. Yang Ming",
+                "shares": 1080000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Ms. Chen Xi",
+                "shares": 48000000,
+                "date": "30/06/2023"
+            },
+            {
+                "name": "Mr. Zhang Qiang",
+                "shares": 10000000,
+                "date": "30/06/2023"
+            }
+        ]
+    }
+]
